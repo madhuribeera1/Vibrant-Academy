@@ -1,0 +1,63 @@
+html{
+    font-size: 62.5%;
+}
+*{
+    box-sizing: border-box;
+}
+.section-studentfeedback{
+    padding: 7em 0;
+    position: relative;
+}
+.title{
+    text-align: center;
+    font-size: 4rem;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.feedback{
+    margin-bottom: 30px;
+    display: flex;
+    background: #fafafa;
+}
+.image img{
+    width: 100%;
+}
+
+.text{
+    font-size: 2rem;
+    line-height: 2rem;
+    padding-top: 3rem;
+    padding: 1.5rem !important;
+    
+}
+.section-gallery{
+    padding-top: 120px;
+    padding-bottom: 130px;
+}
+.title{
+    font-size: 4rem;
+}
+.gallery-item{
+    padding: 0;
+}
+.gallery-item img{
+    width: 100%;
+}
+.footer{
+    background-color: #121212;
+    padding-top: 90px;
+    padding-bottom: 120px;
+}
+.footer-heading{
+    color: #fff;
+}
+.address, .branches{
+    color: #fff;
+    list-style: none;
+    font-size: 2rem;
+}
